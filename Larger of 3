@@ -1,0 +1,13 @@
+#include <stdio.h>
+void main()
+{
+    printf("Enter three numbers");
+    int a=0, b=0, c=0;
+    scanf("%d",&a); scanf("%d",&b); scanf("%d",&c);
+    if (a>b && a>c)
+    printf("%d is largest",a);
+    else if (b>a && b>c)
+    printf("%d is largest",b);
+    else
+    printf("%d is largest",c)
+}
