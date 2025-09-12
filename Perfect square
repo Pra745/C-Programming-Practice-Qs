@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+    int n, s;
+    float d;
+    printf("Enter a number");
+    scanf("%d", &n);
+    d=sqrt((float)n);
+    s=d;
+    if((s*s)==n)
+    printf("Perfect square number");
+    else
+    printf("Not a perfect square number");
+    
+}
