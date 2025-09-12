@@ -9,5 +9,5 @@ void main()
     printf("Person is eligible for voting");
     else
     printf("Person is not eligible for voting");
-    return 0;
+    getch();
 }
