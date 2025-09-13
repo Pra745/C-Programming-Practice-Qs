@@ -4,7 +4,7 @@ int main()
 {
     int ch, n1, n2, r;
     printf("Enter 1 for addition, 2 for subtraction, 3 for multiplication or 4 for division");
-    scanf("%c", &ch);
+    scanf("%d", &ch);
     printf("Enter two numbers: ");
     scanf("%d %d", &n1, &n2);
     switch (ch) 
