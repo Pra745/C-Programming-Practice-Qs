@@ -4,7 +4,7 @@ int main()
 {
     int d;
     printf("Enter the number of the week for which the day will be shown");
-    scanf("%c", &d);
+    scanf("%d", &d);
     switch (d) 
     {
         case 1:
