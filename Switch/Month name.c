@@ -4,7 +4,7 @@ int main()
 {
     int m;
     printf("Enter the number of the month for which the name will be shown");
-    scanf("%c", &m);
+    scanf("%d", &m);
     switch (m) {
         case 1:
             printf("January");
