@@ -1,3 +1,4 @@
+//Checks whether a number is divisible by 3 and 7
 #include <stdio.h>
 void main()
 {
