@@ -1,3 +1,4 @@
+//Checks if a number is divisible by 5 and 11.
 #include <stdio.h>
 void main()
 {
