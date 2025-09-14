@@ -1,3 +1,5 @@
+//Checks if a number is Palindrome number or not.
+//Palindrome number reads the same forwards and backward.
 #include <stdio.h>
 
 void main()
