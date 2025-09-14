@@ -1,3 +1,4 @@
+//Checks whether a number is positive, negative or zero.
 #include <stdio.h>
 void main()
 {
