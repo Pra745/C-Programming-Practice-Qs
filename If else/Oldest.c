@@ -1,3 +1,4 @@
+//Finds the oldest person among three given people based on age.
 #include <stdio.h>
 void main()
 {
