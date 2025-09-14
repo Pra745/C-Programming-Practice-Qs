@@ -1,3 +1,4 @@
+//Finds the youngest person among 3 people based on age.
 #include <stdio.h>
 void main()
 {
