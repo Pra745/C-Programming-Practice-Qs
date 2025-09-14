@@ -1,3 +1,4 @@
+//Finds whether a triangle is equilateral, isosceles or scalene based on the lengths of the three sides.
 #include <stdio.h>
 
 void main()
