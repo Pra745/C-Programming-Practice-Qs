@@ -1,3 +1,4 @@
+//Checks whether a person is eligible or not based on age, i.e. above 18.
 #include <stdio.h>
 
 void main()
