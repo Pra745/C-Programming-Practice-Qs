@@ -1,3 +1,4 @@
+//Checks if the character is upper case or lower case or a digit or a special character.
 #include <stdio.h>
 void main()
 {
