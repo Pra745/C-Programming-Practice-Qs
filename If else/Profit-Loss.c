@@ -1,3 +1,4 @@
+//Calculates the profit or loss percentage accordingly.
 #include <stdio.h>
 
 void main()
