@@ -26,8 +26,8 @@ IF ELSE AND SWITCH
 23. Check whether a number is a perfect square or not
 24. Check whether a number is divisible by both 3 and 7
 25. Electricity bill calculation based on units consumed
-________________________________________
-🔹 Switch Programs (26–50)
+
+Switch Programs (26–50)
 26. Simple calculator (add, subtract, multiply, divide)
 27. Print day of the week (1 = Monday … 7 = Sunday)
 28. Print month name from number (1–12)
