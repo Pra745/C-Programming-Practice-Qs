@@ -1,3 +1,4 @@
+//Finds the largest number among 3 given numbers.
 #include <stdio.h>
 void main()
 {
