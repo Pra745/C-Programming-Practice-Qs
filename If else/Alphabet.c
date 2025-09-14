@@ -1,3 +1,4 @@
+//Checking if the inputted character is an alphabet or not
 #include <stdio.h>
 void main()
 {
