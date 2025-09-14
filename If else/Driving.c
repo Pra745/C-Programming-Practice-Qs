@@ -1,3 +1,5 @@
+//Checks whether is person is eligible for driving based on age.
+//Any person above age 18 is eligible for driving.
 #include <stdio.h>
 
 void main()
