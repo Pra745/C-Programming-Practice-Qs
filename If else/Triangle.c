@@ -1,3 +1,4 @@
+//Checks if the sum of the angles of a triangle is equal to 180 or not, i.e. a valid triangle or not.
 #include <stdio.h>
 
 void main()
