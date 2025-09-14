@@ -1,3 +1,4 @@
+//Finds which number is larger among 2 given numbers.
 #include <stdio.h>
 void main()
 {
