@@ -1,22 +1,29 @@
+//Calculates the sqaure roots of a given quadratic equation based on discriminant calculated.
 #include <stdio.h>
 #include <math.h>
-void main()
+
+int main()
 {
     double a, b, c, discriminant, root1, root2, realPart, imagPart;
     printf("Enter coefficients a, b, and c: ");
     scanf("%lf %lf %lf", &a, &b, &c);
     discriminant = b * b - 4 * a * c;
-    if (discriminant > 0) {
+    if (discriminant > 0) 
+    {
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
         printf("Roots are real and distinct:\n");
         printf("root1 = %.2lf\n", root1);
         printf("root2 = %.2lf\n", root2);
-    } else if (discriminant == 0) {
+    } 
+    else if (discriminant == 0) 
+    {
         root1 = root2 = -b / (2 * a);
         printf("Roots are real and equal:\n");
         printf("root1 = root2 = %.2lf\n", root1);
-    } else { // discriminant < 0
+    } 
+    else 
+    {
         realPart = -b / (2 * a);
         imagPart = sqrt(-discriminant) / (2 * a);
         printf("Roots are complex:\n");
