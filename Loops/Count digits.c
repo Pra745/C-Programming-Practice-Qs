@@ -3,12 +3,11 @@
 
 int main() 
 {
-    int n, i, count, d;
+    int n, i, count;
     printf("Enter a number");
     scanf("%d", &n);
     while(n!=0)
     {
-        d=d%10;
         count++;
         n=n/10;
     }
