@@ -28,31 +28,56 @@ IF ELSE AND SWITCH
 25. Electricity bill calculation based on units consumed
 
 Switch Programs (26–50)
-26. Simple calculator (add, subtract, multiply, divide)
-27. Print day of the week (1 = Monday … 7 = Sunday)
-28. Print month name from number (1–12)
-29. Find number of days in a given month
-30. Vowel or consonant check using switch
-31. Check whether character is alphabet, digit, or special symbol
-32. Menu-driven program: Area of circle, rectangle, triangle
-33. Menu-driven program: Volume of cube, cuboid, sphere
-34. Check even or odd using switch
-35. Find maximum of two numbers using switch
-36. Find maximum of three numbers using nested switch
-37. Display grade based on marks (A, B, C, …)
-38. Print multiplication table of a given number
-39. Menu-driven arithmetic operations (+, -, *, /, %)
-40. Menu-driven temperature conversion (Celsius ↔ Fahrenheit)
-41. Menu-driven unit conversion (km→m, m→cm, etc.)
-42. Menu-driven simple interest & compound interest
-43. Menu-driven triangle type checker
-44. Menu-driven pattern printing (square, triangle, pyramid)
-45. Menu-driven factorial, Fibonacci, prime checker
-46. Menu-driven vowels, consonants, digits counter in a string
-47. Menu-driven reverse number / reverse string
-48. Menu-driven matrix operations (addition, subtraction)
-49. Menu-driven array operations (sum, max, min)
-50. Exit-controlled menu (ATM-like: deposit, withdraw, balance, exit)
+
+Simple calculator (add, subtract, multiply, divide)
+
+Print day of the week (1 = Monday … 7 = Sunday)
+
+Print month name from number (1–12)
+
+Find number of days in a given month
+
+Vowel or consonant check using switch
+
+Check whether character is alphabet, digit, or special symbol
+
+Menu-driven program: Area of circle, rectangle, triangle
+
+Menu-driven program: Volume of cube, cuboid, sphere
+
+Check even or odd using switch
+
+Find maximum of two numbers using switch
+
+Find maximum of three numbers using nested switch
+
+Display grade based on marks (A, B, C, …)
+
+Print multiplication table of a given number
+
+Menu-driven arithmetic operations (+, -, *, /, %)
+
+Menu-driven temperature conversion (Celsius ↔ Fahrenheit)
+
+Menu-driven unit conversion (km→m, m→cm, etc.)
+
+Menu-driven simple interest & compound interest
+
+Menu-driven triangle type checker
+
+Menu-driven pattern printing (square, triangle, pyramid)
+
+Menu-driven factorial, Fibonacci, prime checker
+
+Menu-driven vowels, consonants, digits counter in a string
+
+Menu-driven reverse number / reverse string
+
+Menu-driven matrix operations (addition, subtraction)
+
+Menu-driven array operations (sum, max, min)
+
+Exit-controlled menu (ATM-like: deposit, withdraw, balance, exit)
 
 Loop Programs
 1. Print numbers from 1 to 10
@@ -77,3 +102,23 @@ Loop Programs
 20. Print sum of Fibonacci series
 21. Print arithmetic progression series
 22. Print geometric progression series
+
+
+Arrays and Strings: 
+1. Largest element in an array
+2. Sum and average of array elements
+3. Linear search in an array
+4. Bubble sort
+5. Binary search
+6. Matrix addition
+7. Count vowels and consonants in a string
+8. Reverse a string without strrev()
+9. Concatenate two strings without strcat()
+10. Check palindrome string
+
+Miscellaneous: 
+1. Repeat input until a positive number is entered (goto)
+2. Swap two numbers using call by reference
+3. Power of a number using recursion
+4. Structure program – store & display student details
+5. GCD using recursion
