@@ -1,4 +1,4 @@
-All Programs based on if else, switch, loop using C programming language:
+All Programs based on if else, switch, loop, functions, recursion, strings and arrays using C programming language:
 
 IF ELSE AND SWITCH
 1. Check whether a number is positive, negative, or zero
@@ -41,18 +41,18 @@ Switch Programs (26–50)
 36. Find maximum of three numbers using nested switch
 37. Display grade based on marks (A, B, C, …)
 38. Print multiplication table of a given number
-39. Menu-driven program for arithmetic operations (+, -, *, /, %)
-40. Menu-driven program to convert temperature (Celsius ↔ Fahrenheit)
-41. Menu-driven program for unit conversions (km→m, m→cm, etc.)
-42. Menu-driven program for simple interest & compound interest
-43. Menu-driven program for checking triangle type
-44. Menu-driven program for printing different patterns (square, triangle, pyramid)
-45. Menu-driven program for factorial, Fibonacci, and prime check
-46. Menu-driven program to count vowels, consonants, digits in a string
-47. Menu-driven program to reverse a number or string
-48. Menu-driven program for matrix operations (addition, subtraction)
-49. Menu-driven program for array operations (sum, max, min)
-50. Exit-controlled switch-based program (like ATM menu: deposit, withdraw, check balance, exit)
+39. Menu-driven arithmetic operations (+, -, *, /, %)
+40. Menu-driven temperature conversion (Celsius ↔ Fahrenheit)
+41. Menu-driven unit conversion (km→m, m→cm, etc.)
+42. Menu-driven simple interest & compound interest
+43. Menu-driven triangle type checker
+44. Menu-driven pattern printing (square, triangle, pyramid)
+45. Menu-driven factorial, Fibonacci, prime checker
+46. Menu-driven vowels, consonants, digits counter in a string
+47. Menu-driven reverse number / reverse string
+48. Menu-driven matrix operations (addition, subtraction)
+49. Menu-driven array operations (sum, max, min)
+50. Exit-controlled menu (ATM-like: deposit, withdraw, balance, exit)
 
 Loop Programs
 1. Print numbers from 1 to 10
